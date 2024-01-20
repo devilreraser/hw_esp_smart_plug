@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ESPSmartPlug1.PcbDoc   11/21/2015  11:51:51 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ESPSmartPlug1-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          19               132.48 mm (5.22 Inch)
+T2        0.9mm (35.433mil)        Round          2                5.00 mm (0.20 Inch)
+T3        1mm (39.37mil)           Round          2                4.50 mm (0.18 Inch)
+T4        1.1mm (43.307mil)        Round          4                29.58 mm (1.16 Inch)
+T5        1.15mm (45.276mil)       Round          2                2.54 mm (0.10 Inch)
+T6        1.3mm (51.181mil)        Round          8                31.07 mm (1.22 Inch)
+T7        1.5mm (59.055mil)        Round          3                10.00 mm (0.39 Inch)
+T8        2.5mm (98.425mil)        Round          3                47.93 mm (1.89 Inch)
+---------------------------------------------------------------------------
+Totals                                            43               263.10 mm (10.36 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
